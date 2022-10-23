@@ -1,6 +1,3 @@
-from re import M
-
-
 def binary_search(list, target):
     """
     Returns the index position of the target if found, else it returns None.
@@ -26,7 +23,7 @@ def verify(index):
         print("Target is not found in the list")
 
 """
-Below is a small code example to test the above binary_search algorithm
+Below is a small code example to test the above binary_search algorithim
 """
 
 numb = [1,2,3,4,5,6,7,8,9,10]
